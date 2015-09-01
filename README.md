@@ -1,6 +1,9 @@
-## Your Name
+## Simon Legg
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After leaving school at 16 in order to pursue a career for the police, I started working for a trade decorators' merchants to earn a bit of money in the interim. At 19 I started volunteering as a Special Constable for the police as a way to get my foot in the door. I soon discovered that that career path was not right for me as well as that my current job selling paint was heading nowhere. I needed a change.
+
+My brother was a huge influence in me getting started with coding I dabbled with some online courses and fell in love with it. I applied to Makers Academy and was accepted as the very first Tech City Fellowship candidate. The Makers Academy course has just strengthened my desire to keep coding and to learn awesome new things.
+
 
 ## Skills
 
@@ -23,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2015 to August 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +35,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### St Dunstan's College (Sept 2003 to June 2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- 9 GCSEs (7 A* to B)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Brewers** (June 2007 to June 2015)
+Sales Assistant
+**City of London Police** (November 2011 to present)
+Special Constable
