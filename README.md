@@ -1,20 +1,22 @@
 ## Simon Legg
 
-After leaving school at 16 in order to pursue a career for the police, I started working for a trade decorators' merchants to earn a bit of money in the interim. At 19 I started volunteering as a Special Constable for the police as a way to get my foot in the door. I soon discovered that that career path was not right for me as well as that my current job selling paint was heading nowhere. I needed a change.
+After leaving school at 16 in order to pursue a career with the Metropolitan Police Service, and I started working for a trade decorators' merchants to earn a bit of money in the interim. At 19 I started volunteering as a Special Constable for the Police as a way to get my foot in the door. I soon discovered that career path was not right for me and my current job selling paint was heading nowhere. I needed a change.
 
-My brother was a huge influence in me getting started with coding I dabbled with some online courses and fell in love with it. I applied to Makers Academy and fought my way through a highly selective programme to become Makers Academy's very first [Tech City Fellow](http://www.techcityfellowship.org). The Makers Academy course has just strengthened my desire to keep coding and to learn awesome new things.
+My brother was a huge influence in me getting started with coding; I dabbled with some online courses and fell in love with it. I applied to Makers Academy and fought my way through a highly selective process to become Makers Academy's very first [Tech City Fellow](http://www.techcityfellowship.org). The Makers Academy course has just strengthened my desire to keep coding and to learn awesome new things.
 
 
 ## Skills
 
+#### WHAT ABOUT THE CODING STUFF SIMON?
+
 #### Customer Service
 
-As a sales assistant to both trade and retail customers for 8 years I would regularly interact with people from retail customers to tradesmen. I was able to build up very good relationships with my regular clients to ensure they keep coming back to me. 
-As a Special Constable, my 'customers' would vary even more, coming from all walks of life. With people having differing views on how the police should operate it was important that I was able to provide a top quality professional service to all from victims, witnesses as well as suspects.
+As a sales assistant to both trade and retail customers for 8 years I would regularly interact with people: from retail customers to tradesmen. I was able to build very good relationships with my regular clients to ensure they keep coming back to me.  
+As a Special Constable, my 'customers' would vary even more, coming from all walks of life. With people having differing views on how the Police should operate, it was important that I was able to provide a top quality professional service to all: from victims to witnesses, as well as suspects.  
 
-- Commended for my victim and witness care after a robbery occured.
-- Praised for my community focused attitude at large events including the Lord Mayors Show and the London Marathon
-- Built up long term working client relationships.
+- Commended for my victim and witness care after a robbery occured.  
+- Praised for my community-focused attitude at large events including the Lord Mayors' Show and the London Marathon
+- Built long-term working client relationships.
 
 #### Working under Pressure
 
