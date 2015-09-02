@@ -41,7 +41,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Brewers** (June 2007 to June 2015)
+*Brewers* (June 2007 to June 2015)
 Sales Assistant
-**City of London Police** (November 2011 to present)
+*City of London Police* (November 2011 to present)
 Special Constable
