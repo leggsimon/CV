@@ -1,6 +1,6 @@
 ## Simon Legg
 
-After leaving school at 16 in order to pursue a career with the Metropolitan Police Service, and I started working for a trade decorators' merchants to earn a bit of money in the interim. At 19 I started volunteering as a Special Constable for the Police as a way to get my foot in the door. I soon discovered that career path was not right for me and my current job selling paint was heading nowhere. I needed a change.
+After leaving school at 16 in order to pursue a career with the City of London Police, and I started working for a trade decorators' merchants to earn a bit of money in the interim. At 19 I started volunteering as a Special Constable for the Police as a way to get my foot in the door. I soon discovered that career path was not right for me and my current job selling paint was heading nowhere. I needed a change.
 
 My brother was a huge influence in me getting started with coding; I dabbled with some online courses and fell in love with it. I applied to Makers Academy and fought my way through a highly selective process to become Makers Academy's very first [Tech City Fellow](http://www.techcityfellowship.org). The Makers Academy course has just strengthened my desire to keep coding and to learn awesome new things.
 
