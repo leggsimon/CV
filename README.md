@@ -7,22 +7,27 @@ My brother was a huge influence in me getting started with coding I dabbled with
 
 ## Skills
 
-#### This Skill
+#### Customer Service
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a sales assistant to both trade and retail customers for 8 years I would regularly interact with people from retail customers to tradesmen. I was able to build up very good relationships with my regular clients to ensure they keep coming back to me. 
+As a Special Constable, my 'customers' would vary even more, coming from all walks of life. With people having differing views on how the police should operate it was important that I was able to provide a top quality professional service to all from victims, witnesses as well as suspects.
 
-- Experience
-- Achievements
-- Evidence
+- Commended for my victim and witness care after a robbery occured.
+- Praised for my community focused attitude at large events including the Lord Mayors Show and the London Marathon
+- Built up long term working client relationships.
 
-#### Another Skill
+#### Working under Pressure
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am able to work calmly in high pressure environments, mainly including public order situations where there was a requirement to 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Misc
+
+Throughout my life I have been actively involved with volunteer schemes. I would regular assist with the leading of Scout trips as well as being a main instructor in a newly formed City of London Volunteer Police Cadets scheme aimed at detracting 13-18 year olds from neighbouring boroughs from anti-sociable behaviour
 
 ## Education
 
@@ -41,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-*Brewers* (June 2007 to June 2015)
+#### Brewers (June 2007 to June 2015)
 Sales Assistant
-*City of London Police* (November 2011 to present)
+#### City of London Police (November 2011 to present)
 Special Constable
