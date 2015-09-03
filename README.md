@@ -9,9 +9,9 @@ My brother was a huge influence in me getting started with coding; I dabbled wit
 
 #### Full stack Developer
 
-When I started Makers Academy I was essentially a completely, squeaky clean slate, however within just 12 weeks I could confidently build an end-to-end web app. Although I am more confident using Ruby-on-Rails I have also used Sinatra & picked up the basics of Express.js after writing my first line of Javascript ever the week before!
+When I started Makers Academy I was essentially a completely, squeaky clean slate, however within just 12 weeks I can confidently build an end-to-end web app. Although I am more confident using Ruby-on-Rails I have also used Sinatra & picked up the basics of Express.js after writing my first line of Javascript ever the week before!
 
- - [**Seekr**](https://github.com/leggsimon/seekr_mobile_app) - a 'tinder for recruiting' mobile app, built using the Angular.js and Ionic frameworks.
+ - [**Seekr**](https://github.com/leggsimon/seekr_mobile_app) - a 'tinder for recruiting' mobile app, built using the Angular.js and Ionic frameworks. My final project of Makers Academy
  - [**Instagram**](https://github.com/leggsimon/instagram-challenge) - a clone of Instagram built using Ruby-on-Rails.
  - [**Todo manager**](https://github.com/leggsimon/todo_challenge) - a todo list manager built using the Angular.js framework.
 
