@@ -7,7 +7,13 @@ My brother was a huge influence in me getting started with coding; I dabbled wit
 
 ## Skills
 
-#### WHAT ABOUT THE CODING STUFF SIMON?
+#### Full stack Developer
+
+When I started Makers Academy I was essentially a completely, squeaky clean slate, however within just 12 weeks I could confidently build an end-to-end web app. Although I am more confident using Ruby-on-Rails I have also used Sinatra & picked up the basics of Express.js after writing my first line of Javascript ever the week before!
+
+ - [**Seekr**](https://github.com/leggsimon/seekr_mobile_app) - a 'tinder for recruiting' mobile app, built using the Angular.js and Ionic frameworks.
+ - [**Instagram**](https://github.com/leggsimon/instagram-challenge) - a clone of Instagram built using Ruby-on-Rails.
+ - [**Todo manager**](https://github.com/leggsimon/todo_challenge) - a todo list manager built using the Angular.js framework.
 
 #### Customer Service
 
@@ -20,16 +26,11 @@ As a Special Constable, my 'customers' would vary even more, coming from all wal
 
 #### Working under Pressure
 
-I am able to work calmly in high pressure environments, mainly including public order situations where there was a requirement to 
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am able to work calmly in high pressure environments. From having to detain or protect people from a drunken crowd to taking part in large scale public order disruptions at the London Marathon and numerous demonstrations. Not only being able to work in high pressure situations but I have been able to successfully hone my conflict management skills, in order to prevent further disruption or breach of the peace.
 
 ## Misc
 
-Throughout my life I have been actively involved with volunteer schemes. I would regular assist with the leading of Scout trips as well as being a main instructor in a newly formed City of London Volunteer Police Cadets scheme aimed at detracting 13-18 year olds from neighbouring boroughs from anti-sociable behaviour
+Throughout my life I have been actively involved with volunteer schemes. I would regular assist with the leading of Scout trips (including a 3 week expedition to Nepal) as well as being a main instructor in a newly formed City of London Volunteer Police Cadets scheme aimed at detracting 13-18 year olds from neighbouring boroughs from anti-sociable behaviour.
 
 ## Education
 
@@ -39,8 +40,8 @@ Throughout my life I have been actively involved with volunteer schemes. I would
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Angular.js, Ionic
+- Rspec, Jasmine, Karma, Protractor
 
 #### St Dunstan's College (Sept 2003 to June 2008)
 
